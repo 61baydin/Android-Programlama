@@ -1,8 +1,12 @@
 # Android-Programlama
 
-Kaynak Linkler
+## Kaynak Linkler
 
-https://www.slideshare.net/martyhall/android-tutorial-introduction-and-overview
+1- https://www.slideshare.net/martyhall/android-tutorial-introduction-and-overview
+
+2- https://www.slideshare.net/martyhall/android-programming-tutorial-installation-setup-and-getting-started
+
+### Diğer Linkler
 
 http://www.coreservlets.com/android-tutorial/
 
