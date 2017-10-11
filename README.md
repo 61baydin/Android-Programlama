@@ -1,6 +1,6 @@
 # Windows-Programlama
 
-link
+Kaynak Linkler
 
 https://www.slideshare.net/martyhall/android-tutorial-introduction-and-overview
 
